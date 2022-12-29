@@ -1,2 +1,8 @@
 this is file from user2
+<<<<<<< HEAD
 comment by user1
+=======
+made changes by user
+
+changes by user2 after pull
+>>>>>>> 3a8bff2b2f40394884a4bf09c3836c24a70baae3
