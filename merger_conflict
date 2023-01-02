@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 check the merge conflict
+=======
+new changes this file is to check what happens when we merge and 2 files exists with same name and different data
+>>>>>>> 8eaada3 (file to test merge)
